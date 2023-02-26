@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xiao</h1>
-<h3 align="center">I am a second year engineering science nerd 🤪🤪🤪</h3>
+<h3 align="center">Hi 👋, I'm Xiao!! I am a second year engineering science nerd 🤪🤪🤪</h3>
 
 - 🔭 I’m currently working on **everything**
 
