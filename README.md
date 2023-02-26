@@ -9,6 +9,13 @@
 
 - ⚡ Fun fact **2^127-1**
 
+<h3 align="left">Company that gives me food 🍜🍜🍜:</h3>
+<p align="left">
+<a href="https://www.rbc.com/about-rbc.html" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/rbc-4.svg" alt="xiao215" height="40" width="40" /></a>
+<a href="https://about.google/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" alt="xiao215" height="40" width="40" /></a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
