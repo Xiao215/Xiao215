@@ -1,7 +1,9 @@
-<h3 align="center">Hi 👋, I'm Xiao!! I am a second year Universiyt of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/u/73/university-of-toronto.svg" alt="UofT" height="80" width="80" /></a>Engineering Science nerd 🤪🤪🤪</h3>
-
-<img align="center" src="https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Namecard_Background_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005340" style="width:100%;">
-
+<div class="container">
+  <img align="center" src="https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Namecard_Background_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005340" style="width:100%;">  <div class="bottom-left">Bottom Left</div>
+  <div class="centered">
+    <h3 align="center">Hi 👋, I'm Xiao!! I am a second year Universiyt of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/u/73/university-of-toronto.svg" alt="UofT" height="80" width="80" /></a>Engineering Science nerd 🤪🤪🤪</h3>
+  </div>
+</div>
 - 🔭 I’m currently working on **everything**
 
 - 🌱 I’m currently learning **Machine Learning**
