@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Xiao!! I am a second year Universiyt of Toronto <a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/u/73/university-of-toronto.svg" alt="UofT" height="50" width="50" /></a> Engineering Science nerd 🤪🤪🤪</h3>
+<h3 align="center">Hi 👋, I'm Xiao!! I am a second year Universiyt of Toronto <a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/u/73/university-of-toronto.svg" alt="UofT" height="80" width="80" /></a> Engineering Science nerd 🤪🤪🤪</h3>
 
 - 🔭 I’m currently working on **everything**
 
