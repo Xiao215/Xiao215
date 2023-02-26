@@ -1,12 +1,5 @@
-<div style="position: relative;text-align: center;">
-  <img align="center" src="https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Namecard_Background_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005340" style="width:100%;">  <div class="bottom-left">Bottom Left</div>
-  <div style="position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);">
-    <h3 align="center">Hi 👋, I'm Xiao!! I am a second year Universiyt of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/u/73/university-of-toronto.svg" alt="UofT" height="80" width="80" /></a>Engineering Science nerd 🤪🤪🤪</h3>
-  </div>
-</div>
+<h3 align="center">Hi 👋, I'm Xiao!! I am a second year Universiyt of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/u/73/university-of-toronto.svg" alt="UofT" height="80" width="80" /></a>Engineering Science nerd 🤪🤪🤪</h3>
+
 - 🔭 I’m currently working on **everything**
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -26,3 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiao215&show_icons=true&locale=en&layout=compact" alt="xiao215" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiao215&show_icons=true&locale=en" alt="xiao215" /></p>
+
+  <img align="center" src="https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Namecard_Background_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005340" style="width:100%;"> 
+
