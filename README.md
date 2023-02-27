@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- ⚡ Fun fact (Stealing @): **2^127-1**
+- ⚡ Fun fact (Stealing [@nathanlo99](https://github.com/nathanlo99)): **2^127-1**
 
 - 📫 Email: **xiaozhang20030215@gmail.com**
 
