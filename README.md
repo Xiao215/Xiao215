@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- ⚡ Fun fact **2^127-1**
+- ⚡ Fun fact (Stealing @): **2^127-1**
 
-- 📫 How to reach me **xiaozhang20030215@gmail.com**
+- 📫 Email: **xiaozhang20030215@gmail.com**
 
 <h3 align="left">Companies that buy me food 🍜:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
   
 <a href="https://linkedin.com/in/xiao215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiao215" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xiao215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xiao215" height="30" width="40" /></a>
-<a href="https://discord.gg/Xiao#6898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xiao#6898" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/720743692251562204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xiao#6898" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
