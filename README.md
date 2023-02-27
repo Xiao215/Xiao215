@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Xiao!! I am a second year nerd from University of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" alt="UofT" height="40" width="40" /></a>Engineering Science 🤪🤪🤪</h3>
+<h3 align="center">Hi 👋, I'm Xiao!! I am a second year nerd from University of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" alt="UofT" height="40" width="40" /></a>Engineering Science</h3>
 
 <img src="https://static.wikia.nocookie.net/gensin-impact/images/4/41/Papilio_Charontis_Shape.png/revision/latest?cb=20220506221212" width="200" align="right">
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **2^127-1**
 
-<h3 align="left">Companies that give me food 🍜🍜🍜:</h3>
+<h3 align="left">Companies that buy me food 🍜:</h3>
 <p align="left">
 <a href="https://www.rbc.com/about-rbc.html" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/rbc-4.svg" alt="xiao215" height="40" width="40" /></a>
 <a href="https://about.google/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" alt="xiao215" height="40" width="40" /></a>
