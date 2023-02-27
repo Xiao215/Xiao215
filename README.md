@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **2^127-1**
 
+- 📫 How to reach me **xiaozhang20030215@gmail.com**
+
 <h3 align="left">Companies that buy me food 🍜:</h3>
 <p align="left">
 <a href="https://www.rbc.com/about-rbc.html" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/rbc-4.svg" alt="xiao215" height="40" width="40" /></a>
