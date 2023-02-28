@@ -23,7 +23,7 @@
   
 <a href="https://linkedin.com/in/xiao215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiao215" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xiao215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xiao215" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/720743692251562204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xiao#6898" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/720743692251562204" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Xiao#6898" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
