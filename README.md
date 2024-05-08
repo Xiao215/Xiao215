@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Xiao!! I am a second year nerd from University of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" alt="UofT" height="40" width="40" /></a>Engineering Science</h3>
-Check out my website to learn more about me: https://xiao215.me
+<h3 align="center">Hi 👋, I'm Xiao!! I am a third year nerd from University of Toronto<a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" alt="UofT" height="40" width="40" /></a>Engineering Science</h3>
+Check out my website to learn more about me: https://xiao215.github.io
 <a href="https://github.com/Xiao215" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/gensin-impact/images/4/41/Papilio_Charontis_Shape.png/revision/latest?cb=20220506221212" width="200" align="right"></a>
 
 
@@ -14,7 +14,7 @@ Check out my website to learn more about me: https://xiao215.me
 <h3 align="left">Companies that buy me food 🍜:</h3>
 <p align="left">
 <a href="https://www.rbc.com/about-rbc.html" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/rbc-4.svg" alt="xiao215" height="40" width="40" /></a>
-<a href="https://about.google/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1196236779834048632/1212208966348578846/new-google-favicon-512.png?ex=65f10093&is=65de8b93&hm=224412327887e0f5e0f77a8e2517f4ade77385bade159ad2e21bbcb9e9e13b23&=&format=webp&quality=lossless&width=1104&height=1104" alt="xiao215" height="40" width="40" /></a>
+<a href="https://about.google/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" alt="xiao215" height="40" width="40" /></a>
 </p>
 
 
